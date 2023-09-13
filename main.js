@@ -1,3 +1,5 @@
+//lembrar de esconder
+
 const key = 'e405e6f0cbbd8f8c90bbb4d04b264cce';
 const $ = document.querySelector.bind(document);
 const url_image = 'https://image.tmdb.org/t/p/w500';
